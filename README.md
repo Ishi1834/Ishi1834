@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ishi1834
-- 👀 I’m interested in Python development.
-- 🌱 I’m currently learning backend development using python.
+- 👀 I’m interested in Frontend and Python development.
+- 🌱 I’m currently learning backend development using flask and developing my front-end skills by building Frontend Mentor projects.
 - 💞️ I’m looking to collaborate on front-end and python projects.
 - 📫 How to reach me [Contact Me](mailto:sadiqkhalif@hotmail.com)
 

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ishi1834
-- 👀 I’m interested in Frontend and Python, django and frontend development.
+- 👀 I’m interested in Python, Django, React and frontend development.
 - 🌱 I’m currently learning backend development using django and developing my front-end skills by building Frontend Mentor projects.
 - 💞️ I’m looking to collaborate on front-end and python projects.
 - 📫 How to reach me [Contact Me](mailto:sadiqkhalif@hotmail.com)

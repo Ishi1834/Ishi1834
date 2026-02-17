@@ -16,6 +16,7 @@ I learn and adopt the technologies required to deliver the best solution for the
 ### Backend
 - Node.js
 - Express
+- Postgres
 - MongoDB
 
 ### Mobile
@@ -27,7 +28,6 @@ I learn and adopt the technologies required to deliver the best solution for the
 
 - Python & Django (previous projects)
 - Next.js & Supabase (side projects)
-- PostgreSQL
 - REST APIs
 - Server-side development
 
